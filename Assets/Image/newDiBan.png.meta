@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: 305fcfa49b3bb417fb730631654ea14f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: newDiBan_0
+    21300002: newDiBan_1
+    21300004: newDiBan_2
+    21300006: newDiBan_3
+    21300008: newDiBan_4
+    21300010: newDiBan_5
+    21300012: newDiBan_6
+    21300014: newDiBan_7
+    21300016: newDiBan_8
+    21300018: newDiBan_9
+    21300020: newDiBan_10
+    21300022: newDiBan_11
+    21300024: newDiBan_12
+    21300026: newDiBan_13
+    21300028: newDiBan_14
+    21300030: newDiBan_16
+    21300032: newDiBan_17
+    21300034: newDiBan_18
+    21300036: newDiBan_19
+    21300038: newDiBan_20
+    21300040: newDiBan_21
+    21300042: newDiBan_22
+    21300044: newDiBan_23
+    21300046: newDiBan_24
+    21300048: newDiBan_25
+    21300050: newDiBan_26
+    21300052: newDiBan_27
+    21300054: newDiBan_28
+    21300056: newDiBan_29
+    21300058: newDiBan_30
+    21300060: newDiBan_31
+    21300062: newDiBan_32
+    21300064: newDiBan_33
+    21300066: newDiBan_34
+    21300068: newDiBan_35
+    21300070: newDiBan_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: newDiBan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 126
+        height: 126
+      alignment: 9
+      pivot: {x: 0.67460316, y: 0.32539684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b366bf5742554e61bca39fc144c18fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 454
+        width: 82
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32539684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6413740613344391a7d27c522a7edd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 454
+        width: 82
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32539684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b34ffc127974228b02c7f4cdcdd1dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 454
+        width: 82
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32539684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9ed246a921249809a2f7b7adb706d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 454
+        width: 82
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32539684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd1dd9aa63b84dc0af228909d009d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 454
+        width: 126
+        height: 126
+      alignment: 9
+      pivot: {x: 0.32539684, y: 0.32539684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb40e49ef214d46a152d997c5f8f96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 126
+        height: 82
+      alignment: 9
+      pivot: {x: 0.67460316, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573eba88bf9a84c4fb2d8b6953a0d17c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 372
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b78bb34a3241c2b66345d06394820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 372
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e06b43e29d64098a78d8c212624b31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 372
+        width: 126
+        height: 82
+      alignment: 9
+      pivot: {x: 0.32539684, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3265bd7f5fc48b2a18c1ffe7bdaad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 126
+        height: 82
+      alignment: 9
+      pivot: {x: 0.67460316, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6644363bc3b4947718cfbbaf09c47a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_17
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 290
+        width: 126
+        height: 82
+      alignment: 9
+      pivot: {x: 0.32539684, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d379c74952894432db8e19eb3efbdc91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 126
+        height: 82
+      alignment: 9
+      pivot: {x: 0.67460316, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105716b5f977f4e9b966a70e3c1e7048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 209
+        width: 126
+        height: 82
+      alignment: 9
+      pivot: {x: 0.32539684, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f1694b3c9c44fd4bbf14a99ad94e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 126
+        height: 82
+      alignment: 9
+      pivot: {x: 0.67460316, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee833fe34bbce49d09af9b3907585fb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d404e52f8c9e44e7dbff2c0d9ee3cb58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 126
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cffa493a8c94e1e81899ffd6239f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 126
+        width: 126
+        height: 82
+      alignment: 9
+      pivot: {x: 0.32539684, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb8f8ed9510642abaffb27c3ba27332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 126
+      alignment: 9
+      pivot: {x: 0.67460316, y: 0.67460316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c61991254f64d2093e60cef77f41c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 82
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67460316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a6663cd3b6b42769683fb5b81084bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 82
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67460316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a19db32611c4bc1b576dfed538357f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 82
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67460316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5283eea08300f4961a7e01666e8182a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_34
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 82
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.6746032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da3966b057e94cc697d835c847d341e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 126
+        height: 126
+      alignment: 9
+      pivot: {x: 0.32539684, y: 0.67460316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad139651e75e4a94a52cdf127a27d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 290
+        width: 164
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386a4543f5c384ca6831448a61394ba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 290
+        width: 164
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe573342d963840909c8e9146061c0d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 164
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963fa346bf0b24a77a109f22cd2af20a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 126
+        width: 164
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844525e095b494ac6b17da9128c05bfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 126
+        width: 82
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85b4d2403cb34b14b9fb9aaaf2c53c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 126
+        width: 82
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b1bb674e124112acb6053185496b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 290
+        width: 82
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a99ba89e3f704cf682a3180c1761034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newDiBan_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 290
+        width: 82
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05af52df3fd44715a3411722c365d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e3daff112c4154db3bb6febcdd62494a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
